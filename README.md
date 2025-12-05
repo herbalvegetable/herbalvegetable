@@ -2,7 +2,6 @@
 ## Aspiring Software Developer / Data Analyst
 ## AI / ML Enthusiast
 
-Current Projects:\
 [Reddlook](https://reddlook.vercel.app)\
 A Reddit mask with an Outlook Interface. Perfect for your sneaky entertainment fix in the office, especially in front of your supervisor 🫣.
 
