@@ -5,7 +5,7 @@
 [Reddlook](https://reddlook.vercel.app)\
 A Reddit mask with an Outlook Interface. Perfect for your sneaky entertainment fix in the office, especially in front of your supervisor 🫣.
 
-[2 Player Billards Game](https://billardsgame.vercel.app/)\
+[2 Player Billards Game](https://billiardsgame.vercel.app/)\
 A 2 Player Billards Game 🎱. Grab a friend and see who has the better aim 😎.
 
 (this README was NOT written by ChatGPT 😁)
