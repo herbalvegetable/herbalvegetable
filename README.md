@@ -8,6 +8,7 @@ A Reddit mask with an Outlook Interface. Perfect for your sneaky entertainment f
 [2 Player Billards Game](https://billardsgame.vercel.app/)\
 A 2 Player Billards Game 🎱. Grab a friend and see who has the better aim 😎.
 
+(this README was NOT written by ChatGPT 😁)
 
 <!--
 **herbalvegetable/herbalvegetable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
