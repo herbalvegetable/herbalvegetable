@@ -5,6 +5,9 @@
 [Reddlook](https://reddlook.vercel.app)\
 A Reddit mask with an Outlook Interface. Perfect for your sneaky entertainment fix in the office, especially in front of your supervisor 🫣.
 
+SMUBoard\
+SMU Module Dashboard (WORK IN PROGRESS NO LINK YET)
+
 [2 Player Billiards Game](https://billiardsgame.vercel.app/)\
 A 2 Player Billiards Game 🎱. Grab a friend and see who has the better aim 😎.
 
