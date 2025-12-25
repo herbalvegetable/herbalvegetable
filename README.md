@@ -11,7 +11,7 @@ SMU Module Dashboard (WORK IN PROGRESS NO LINK YET)
 [2 Player Billiards Game](https://billiardsgame.vercel.app/)\
 A 2 Player Billiards Game 🎱. Grab a friend and see who has the better aim 😎.
 
-*(this README was NOT written by ChatGPT 😁)*
+*(this README was NOT written by ChatGPT)*
 
 <!--
 **herbalvegetable/herbalvegetable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
