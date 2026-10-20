@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ben! 😁
-## Aspiring Sofware / DevSecOps Engineer
+## Aspiring Software / DevSecOps Engineer
 
 [AI-Powered ER Diagram Builder](https://quick-er.vercel.app)\
 A fast, command-line inspired web application for creating Entity-Relationship (ER) diagrams. QuickER lets you build diagrams by typing commands in a prompt at the bottom of the screen, similar to a terminal, no point-and-click form filling required. It supports all standard ER constructs (strong, weak, and associative entities; supertype/subtype hierarchies; relationships with cardinalities), includes an AI-powered diagram generator and convenient export options (PNG, PDF, custom code)!
